@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 01.02.2021 - 05.02.2021  
 **Name:** PramudyaRilo  
 **Surname:** Pambudi  
 **Email:** pramudyarilo.p@gmail.com  
