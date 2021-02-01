@@ -9,12 +9,10 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of my project.
+This repo is used for Python Course homework held by GlobalAI Hub
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+
 ```
 ---
