@@ -54,4 +54,4 @@ This repo is used for Python Course homework held by GlobalAI Hub
 - Introduction to NumPy
 
 ## Certificate
-![](img/certificate_ex.png)
+![](img/Py_Certificate.png)
