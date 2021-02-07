@@ -11,8 +11,8 @@
 ## Project Name
 This repo is used for Python Course homework held by GlobalAI Hub
 
-- You can find homework files in "Homeworks" directory
-- You can find final project files in "Final Project" directory
+- You can find homework files in "homeworks" directory
+- You can find final project files in "final_project" directory
 
 ## Syllabus
 
