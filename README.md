@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 01.02.2021 - 05.02.2021  
-**Name:** PramudyaRilo  
+**Name:** Pramudya Rilo  
 **Surname:** Pambudi  
 **Email:** pramudyarilo.p@gmail.com  
 
